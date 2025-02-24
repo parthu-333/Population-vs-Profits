@@ -102,4 +102,4 @@ pip install numpy pandas matplotlib
 python script.py
 ```
 ## 🤝 Contributing 
-Glad to see my repo! Open an issue for suggestion or improvements.
+Give a look at my repo! Open an issue for suggestion or improvements.
